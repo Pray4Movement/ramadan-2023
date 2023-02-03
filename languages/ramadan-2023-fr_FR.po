@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Disciple Tools - Ramadan 2023\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
-"POT-Creation-Date: 2023-01-26T09:46:59+00:00\n"
+"POT-Creation-Date: 2023-02-03T14:47:13+00:00\n"
 "PO-Revision-Date: 2023-02-03 13:22+0000\n"
 "Last-Translator: Josephine L. <webmaster@thetruthchangedme-bd.com>\n"
 "Language-Team: French <https://translate.disciple.tools/projects/"
@@ -17,9 +17,9 @@ msgstr ""
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: ramadan-2023.php\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;es"
-"c_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_n"
-"x_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SearchPathExcluded-1: */libraries/*\n"
@@ -39,8 +39,8 @@ msgstr "Que les personnes [of location] saisissent la Bonne Nouvelle"
 #: admin/admin-menu-and-tabs.php:208
 msgid "How could this quote inspire you to pray for [people_group]?"
 msgstr ""
-"Comment cette citation pourrait-elle vous inciter à prier pour [people_group]"
-" ?"
+"Comment cette citation pourrait-elle vous inciter à prier pour "
+"[people_group] ?"
 
 #: admin/prayer-field-content.php:70
 #, fuzzy
@@ -1879,13 +1879,13 @@ msgstr "Prières bibliques"
 msgid "Prayer Walk"
 msgstr "Marche de prière"
 
-#: admin/prayer-field-content.php:520
+#: admin/prayer-field-content.php:523
 #, fuzzy
 #| msgid "Missional Quotes"
 msgid "Inspirational Quotes"
 msgstr "Citations missionnaires"
 
-#: admin/prayer-field-content.php:525
+#: admin/prayer-field-content.php:528
 msgid ""
 "How could this quote inspire you to pray for [people_group]? For yourself?"
 msgstr ""

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Disciple.Tools - Prayer Campaigns 2.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
-"POT-Creation-Date: 2023-01-26T09:46:59+00:00\n"
+"POT-Creation-Date: 2023-02-03T14:47:13+00:00\n"
 "PO-Revision-Date: 2022-12-13 16:52+0100\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://translate.disciple.tools/projects/disciple-"
@@ -1504,11 +1504,11 @@ msgstr ""
 msgid "Prayer Walk"
 msgstr "Dua Yakıtı"
 
-#: admin/prayer-field-content.php:520
+#: admin/prayer-field-content.php:523
 msgid "Inspirational Quotes"
 msgstr ""
 
-#: admin/prayer-field-content.php:525
+#: admin/prayer-field-content.php:528
 msgid ""
 "How could this quote inspire you to pray for [people_group]? For yourself?"
 msgstr ""
