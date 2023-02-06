@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Disciple.Tools - Ramadan 2023 0.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
-"POT-Creation-Date: 2023-02-03T15:16:22+00:00\n"
+"POT-Creation-Date: 2023-02-06T13:23:05+00:00\n"
 "PO-Revision-Date: 2022-12-13 16:50+0100\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://translate.disciple.tools/projects/"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Generator: Poedit 3.2.2\n"
 "X-Domain: ramadan-2023\n"
 
-#: admin/admin-menu-and-tabs.php:188
+#: admin/admin-menu-and-tabs.php:189
 #, fuzzy
 msgid ""
 "Jesus, give the church [in location] grace to cherish your name above all "
@@ -26,12 +26,12 @@ msgstr ""
 "Jesús, dale a la iglesia [en el lugar] gracia para apreciar tu nombre por "
 "encima de todo"
 
-#: admin/admin-menu-and-tabs.php:198
+#: admin/admin-menu-and-tabs.php:199
 #, fuzzy
 msgid "let the people [of location] grasp the Good News"
 msgstr "que la gente [del lugar] capte las Buenas Nuevas"
 
-#: admin/admin-menu-and-tabs.php:208
+#: admin/admin-menu-and-tabs.php:209
 msgid "How could this quote inspire you to pray for [people_group]?"
 msgstr ""
 

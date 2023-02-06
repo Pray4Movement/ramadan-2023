@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Disciple Tools - Ramadan 2023\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
-"POT-Creation-Date: 2023-02-03T15:16:22+00:00\n"
+"POT-Creation-Date: 2023-02-06T13:23:05+00:00\n"
 "PO-Revision-Date: 2023-02-03 13:22+0000\n"
 "Last-Translator: Josephine L. <webmaster@thetruthchangedme-bd.com>\n"
 "Language-Team: French <https://translate.disciple.tools/projects/"
@@ -24,7 +24,7 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SearchPathExcluded-1: */libraries/*\n"
 
-#: admin/admin-menu-and-tabs.php:188
+#: admin/admin-menu-and-tabs.php:189
 msgid ""
 "Jesus, give the church [in location] grace to cherish your name above all "
 "else"
@@ -32,11 +32,11 @@ msgstr ""
 "Jesus, donne à l'Eglise [in location] la grâce de chérir ton nom par-dessus "
 "tout"
 
-#: admin/admin-menu-and-tabs.php:198
+#: admin/admin-menu-and-tabs.php:199
 msgid "let the people [of location] grasp the Good News"
 msgstr "Que les personnes [of location] saisissent la Bonne Nouvelle"
 
-#: admin/admin-menu-and-tabs.php:208
+#: admin/admin-menu-and-tabs.php:209
 msgid "How could this quote inspire you to pray for [people_group]?"
 msgstr ""
 "Comment cette citation pourrait-elle vous inciter à prier pour "
