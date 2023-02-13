@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Disciple.Tools - Ramadan 2023 0.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
 "POT-Creation-Date: 2023-02-06T13:23:05+00:00\n"
-"PO-Revision-Date: 2023-02-13 23:35+0000\n"
+"PO-Revision-Date: 2023-02-15 00:22+0000\n"
 "Last-Translator: Mike Allbutt <mikeallbutt@gmail.com>\n"
 "Language-Team: Spanish <https://translate.disciple.tools/projects/"
 "pray4movement/ramadan-2023/es_ES/>\n"
@@ -2485,12 +2485,12 @@ msgstr "Oraciones bíblicas"
 #: admin/prayer-field-content.php:511
 #, fuzzy
 msgid "Prayer Walk"
-msgstr "caminata de oración"
+msgstr "Caminata de oración"
 
 #: admin/prayer-field-content.php:523
 #, fuzzy
 msgid "Inspirational Quotes"
-msgstr "Citas misionales"
+msgstr "Citas de inspiración"
 
 #: admin/prayer-field-content.php:528
 msgid ""
