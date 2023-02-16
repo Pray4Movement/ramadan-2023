@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Disciple.Tools - Prayer Campaigns 2.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
 "POT-Creation-Date: 2023-02-06T13:23:05+00:00\n"
-"PO-Revision-Date: 2023-02-15 00:22+0000\n"
+"PO-Revision-Date: 2023-02-16 10:30+0000\n"
 "Last-Translator: Mike Allbutt <mikeallbutt@gmail.com>\n"
 "Language-Team: Spanish (Latin America) <https://translate.disciple.tools/"
 "projects/pray4movement/ramadan-2023/es_419/>\n"
@@ -1236,8 +1236,8 @@ msgstr ""
 "nuestro Dios, reparar sus ruinas y darnos amparo en Judea y Jerusalén”. ("
 "Esdras 9:9 NVI).\n"
 "\n"
-"Señor Jesús, afirmarías en tus seguidores [en el lugar] sus identidades como "
-"esclavos, esclavos de ti, su buen Amo, sin importar cuán contracultural y "
+"Señor Jesús, afirma en tus seguidores [in location] sus identidades como "
+"esclavos, -esclavos de ti, su buen Amo, sin importar cuán contracultural y "
 "provocativa pueda ser esta identidad. Que digan con el pueblo de Dios, "
 "\"somos esclavos, pero nuestro Dios no nos ha desamparado en nuestra "
 "esclavitud\". (Esdras 9:9)."
@@ -2476,7 +2476,6 @@ msgid "Our Treasure in Jesus"
 msgstr "Nuestro Tesoro en Jesús"
 
 #: admin/prayer-field-content.php:495
-#, fuzzy
 msgid "Testimonies from Around the World"
 msgstr "Testimonios de Alrededor del Mundo"
 
@@ -2489,7 +2488,6 @@ msgid "Prayer Walk"
 msgstr "Caminata de Oración"
 
 #: admin/prayer-field-content.php:523
-#, fuzzy
 msgid "Inspirational Quotes"
 msgstr "Frases Inspiracionales"
 
