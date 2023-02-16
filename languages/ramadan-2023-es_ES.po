@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Disciple.Tools - Ramadan 2023 0.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
 "POT-Creation-Date: 2023-02-06T13:23:05+00:00\n"
-"PO-Revision-Date: 2023-02-15 00:22+0000\n"
+"PO-Revision-Date: 2023-02-16 10:30+0000\n"
 "Last-Translator: Mike Allbutt <mikeallbutt@gmail.com>\n"
 "Language-Team: Spanish <https://translate.disciple.tools/projects/"
 "pray4movement/ramadan-2023/es_ES/>\n"
@@ -310,9 +310,8 @@ msgstr ""
 "Que los ídolos de la cultura [in location] se revelen por los fraudes "
 "silenciosos e inmóviles que son, y que la iglesia tenga la claridad y la "
 "sabiduría para abordar la idolatría en todas sus formas. (Jeremías 10:5) "
-"Señor Dios, ¿les concederías a los creyentes [en el lugar] humildad, "
-"mansedumbre y discernimiento mientras luchan contra la idolatría en "
-"comunidad?"
+"Señor Dios, concede a los creyentes [in location] humildad, mansedumbre y "
+"discernimiento mientras luchan contra la idolatría en comunidad."
 
 #: admin/prayer-field-content.php:109
 msgid ""
@@ -1234,8 +1233,8 @@ msgstr ""
 "nuestro Dios, reparar sus ruinas y darnos amparo en Judea y Jerusalén”. ("
 "Esdras 9:9 NVI).\n"
 "\n"
-"Señor Jesús, afirmarías en tus seguidores [en el lugar] sus identidades como "
-"esclavos, esclavos de ti, su buen Amo, sin importar cuán contracultural y "
+"Señor Jesús, afirma en tus seguidores [in location] sus identidades como "
+"esclavos - esclavos de ti, su buen Amo, sin importar cuán contracultural y "
 "provocativa pueda ser esta identidad. Que digan con el pueblo de Dios, "
 "\"somos esclavos, pero nuestro Dios no nos ha desamparado en nuestra "
 "esclavitud\". (Esdras 9:9)."
@@ -2473,22 +2472,18 @@ msgid "Our Treasure in Jesus"
 msgstr "Nuestro Tesoro en Jesús"
 
 #: admin/prayer-field-content.php:495
-#, fuzzy
 msgid "Testimonies from Around the World"
 msgstr "Testimonios de todo el mundo"
 
 #: admin/prayer-field-content.php:503
-#, fuzzy
 msgid "Biblical Prayers"
 msgstr "Oraciones bíblicas"
 
 #: admin/prayer-field-content.php:511
-#, fuzzy
 msgid "Prayer Walk"
 msgstr "Caminata de oración"
 
 #: admin/prayer-field-content.php:523
-#, fuzzy
 msgid "Inspirational Quotes"
 msgstr "Citas de inspiración"
 
